@@ -89,7 +89,7 @@ code: |
 ---
 id: confirm evaluations screen
 question : |
-  Please select the evaluations you want.
+  Please select the type of evaluations you need.
 fields:
   - "Select your evaluations here.": selected_evaluations
 
